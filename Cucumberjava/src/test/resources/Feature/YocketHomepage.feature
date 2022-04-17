@@ -1,6 +1,6 @@
 #Author: Shubham N
 #Date: 17 April 2022
-#Description: Test college finder module
+#Description: Validate college finder module
 
 Feature: Feature to test yocket homepage
 
