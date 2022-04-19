@@ -72,6 +72,5 @@ public class YocketSearch {
 		Driver.findElement(By.xpath("//*[@id=\"rso\"]/div[1]/div/div/table/tbody/tr[2]/td/div/h3/a")).sendKeys(Keys.ENTER);
 		Thread.sleep(5000);
 		
-		Driver.close();
 	}
 }
