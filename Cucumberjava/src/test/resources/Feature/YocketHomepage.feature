@@ -10,5 +10,6 @@ Feature: Feature to test yocket college finder module
     And Select Masters on Unviversity College finder webpage
     Then User fills Step1 details and moves ahead
     And User fills step2 details and clicks next button
-    #And User fills step3 details and proceeds further
-    #And User fills step4 details and finds list of universities
+    And User fills step3 details and proceeds further
+    And User fills step4 details and finds list of universities
+    Then List of universities is displayed to user
