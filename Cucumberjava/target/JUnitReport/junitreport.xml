@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="60.937">
+    <testcase classname="Feature to test yocket college finder module" name="To validate yocket college finder module" time="60.76">
+        <system-out>
+            <![CDATA[Given Oepn Yocket website...................................................passed
+And Select College Finder option............................................passed
+And Select Masters on Unviversity College finder webpage....................passed
+Then User fills Step1 details and moves ahead...............................passed
+And User fills step2 details and clicks next button.........................passed
+And User fills step3 details and proceeds further...........................passed
+And User fills step4 details and finds list of universities.................passed
+Then List of universities is displayed to user..............................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
