@@ -13,7 +13,7 @@ public class YocketSearch {
 
 	WebDriver Driver = null;
 	
-	@Given("Oepn Yocket website")
+	@Given("Open Yocket website")
 	public void Oepn_Yocket_website() {
 	    
 	    System.out.println("User visits to Yocket.com website");

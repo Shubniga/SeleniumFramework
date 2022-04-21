@@ -1,11 +1,11 @@
 #Author: Shubham N
-#Date: 18 April 2022
+#Date: 20 April 2022
 #Description: Validate college finder module
 
 Feature: Feature to test yocket college finder module
 
   Scenario: To validate yocket college finder module
-    Given Oepn Yocket website
+    Given Open Yocket website
     And Select College Finder option
     And Select Masters on Unviversity College finder webpage
     Then User fills Step1 details and moves ahead
